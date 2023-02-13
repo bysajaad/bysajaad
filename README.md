@@ -2,7 +2,6 @@
 - 👀 I’m a Product Designer
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on startups in seed round looking for product guy
-- 📫 Reach me on sajad.rudbari[at]gmail.com
 
 <!---
 bysajaad/bysajaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
