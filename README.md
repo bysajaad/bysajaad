@@ -9,7 +9,8 @@ I build things that work at scale and fix things that don't.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sajad--roudbari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsajaad)
 [![Dribbble](https://img.shields.io/badge/Dribbble-iamsajaad-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/iamsajaad)
-[![Blog](https://img.shields.io/badge/Blog-FA%20%2F%20EN-FF6B35?style=flat-square&logo=hashnode&logoColor=white)](https://virgool.io/iamsajaad)
+[![Blog EN](https://img.shields.io/badge/Blog-English-00AB6C?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bysajaad)
+[![Blog FA](https://img.shields.io/badge/Blog-Persian-FF6B35?style=flat-square&logo=hashnode&logoColor=white)](https://virgool.io/@bysajaad)
 [![Email](https://img.shields.io/badge/Email-sajad.rudbari@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sajad.rudbari@gmail.com)
 
 </div>
