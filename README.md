@@ -3,7 +3,7 @@
 
 ```
 Product × Design × Infrastructure.
-Started in an internet café. Ended up building ML pipelines.
+Started in null. Ended up building ML pipelines.
 I build things that work at scale and fix things that don't.
 ```
 
