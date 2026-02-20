@@ -19,7 +19,7 @@ I build things that work at scale and fix things that don't.
 
 ## 👋 Hey, I'm Sajad
 
-**Director of Product Design** @ [Digikala Jet](https://jet.digikala.com) — MENA's leading quick commerce platform.  
+**Director of Product Design** @ [Digikala Jet](https://digikalajet.com) — MENA's leading quick commerce platform.  
 **Founder** @ [Zonerift](https://zonerift.com) — intelligent VPN SaaS, 1.5PB/month, zero maintenance, still running.
 
 I've spent 15 years building consumer products across MENA — from a B2B logistics marketplace where I rode cross-country with truck drivers to understand their UX, to shipping a toll payment feature in 2 weeks on a 4M DAU platform. I believe design and engineering are the same conversation, just spoken in different languages.
