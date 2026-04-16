@@ -7,11 +7,10 @@ Started in null. Ended up building ML pipelines.
 I build things that work at scale and fix things that don't.
 ```
 [![Website](https://img.shields.io/badge/website-iamsajaad.com-6c63ff?style=flat-square)](https://iamsajaad.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sajad--roudbari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsajaad)
-[![Dribbble](https://img.shields.io/badge/Dribbble-iamsajaad-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/iamsajaad)
+[![Behance](https://img.shields.io/badge/behance-iamsajaad-0057ff?style=flat-square&logo=Behance&logoColor=white)](https://behance.net/bysajaad)
+[![Dribbble](https://img.shields.io/badge/Dribbble-iamsajaad-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/bysajaad)
 [![Blog EN](https://img.shields.io/badge/Blog-English-00AB6C?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bysajaad)
 [![Blog FA](https://img.shields.io/badge/Blog-Persian-FF6B35?style=flat-square&logo=hashnode&logoColor=white)](https://virgool.io/@bysajaad)
-[![Email](https://img.shields.io/badge/Email-sajad.rudbari@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sajad.rudbari@gmail.com)
 
 </div>
 
