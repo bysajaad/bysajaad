@@ -23,7 +23,7 @@ I build things that work at scale and fix things that don't.
 
 I've spent 15 years building consumer products across MENA — from a B2B logistics marketplace where I rode cross-country with truck drivers to understand their UX, to shipping a toll payment feature in 2 weeks on a 4M DAU platform. I believe design and engineering are the same conversation, just spoken in different languages.
 
-> *My approach: go where the user is, not where it's convenient. Ship, learn, iterate.*
+> *My approach: Ship, learn, iterate.*
 
 ---
 
