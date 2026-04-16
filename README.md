@@ -2,7 +2,6 @@
 <div align="center">
   
 ```
-<div align="center">
 Product × Design × Infrastructure.
 Started in null. Ended up building ML pipelines.
 I build things that work at scale and fix things that don't.
