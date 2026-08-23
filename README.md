@@ -24,7 +24,7 @@
 
 <br>
 
-## 🧠 &nbsp;Call intelligence at Digikala
+## 🧠 &nbsp;Call Center intelligence at Digikala
 
 Quality control ran on a **random 10% sample** of call-centre calls, and escalation was how anything outside that sample got found. I negotiated archive access out of the company's most regulation-bound data team, then built a pipeline over the **full daily volume**.
 
